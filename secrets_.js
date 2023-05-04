@@ -1,1 +1,0 @@
-var password = 'aaaaaaa';
